@@ -1,0 +1,1 @@
+Download Visual Studio Code,enter this programm code, make sure u have got the address with Cheat Engine (value which u wanna changin and watching in my programm) and thats a little version of cheat engine but shows how it works in simple ways
